@@ -200,7 +200,7 @@ flutter run
 
 - **Frontend**: Flutter (Dart)
 - **Backend**: Flask (Python)
-- **Database**: Firebase Realtime Database
+- **Database**: Firebase Realtime Database, Firebase Firestore Database
 - **Authentication**: Firebase Auth
 - **Hardware**: Arduino UNO R4 WiFi (C/C++)
 - **Communication**: MQTT, HTTP API
@@ -210,7 +210,7 @@ flutter run
 
 ## 시연 영상
 
--유투브 링크: https://youtu.be/hTZr1kJplH8?si=2JTG4JiwHE3kMMD3
+-유튜브 링크: https://youtu.be/hTZr1kJplH8?si=2JTG4JiwHE3kMMD3
 
 ---
 
